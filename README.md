@@ -2041,6 +2041,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [Glacier flow model](https://github.com/munterfi/glacier-flow-model) - Modeling glaciers on a digital elevation model based on mass balance and a modified D8 flow algorithm applied to ice.
 - [icepack](https://github.com/icepack/icepack) - A library for modeling the flow of ice sheets and glaciers using the finite element method.
 - [GrIML](https://github.com/GEUS-Glaciology-and-Climate/GrIML) -  Investigating Greenland's ice-marginal lakes under a changing climate.
+- [PyGEM](https://github.com/PyGEM-Community/PyGEM) - An open-source glacier evolution model coded in Python that models the transient evolution of glacier.
 - [pDEMtools](https://github.com/trchudley/pdemtools) - pDEMtools provides a convenient set of functions to explore, download, and preprocess high-resolution DEMs of the polar regions from the ArcticDEM and Reference Elevation Model of Antarctica products, courtesy of the Polar Geospatial Center (PGC).
 - [IGM](https://github.com/instructed-glacier-model/igm) - Source code of the Instructed Glacier Model (IGM).
 
