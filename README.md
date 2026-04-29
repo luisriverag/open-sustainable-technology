@@ -1940,6 +1940,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [camtrapdp](https://github.com/inbo/camtrapdp) - R package to read and manipulate Camera Trap Data Packages.
 - [TRAPPER](https://gitlab.com/trapper-project/trapper) - Designed to manage camera trapping projects, an essential tool in ecological research.
 - [Zamba](https://github.com/drivendataorg/zamba) - A Python package for identifying hundreds of kinds of animals, training custom models, and estimating distance from camera trap videos and images.
+- [EarthRanger](https://github.com/PADAS/er-server) - Aids protected area managers, ecologists, and wildlife biologists in making more informed operational decisions for wildlife conservation.
  
 ### Wildfire
 
