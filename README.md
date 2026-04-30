@@ -1844,6 +1844,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [WHAM](https://github.com/timjmiller/wham) - The Woods Hole Assessment Model is a general age-structured stock assessment framework that can be configured to estimate assessment models that range in complexity from statistical catch-at-age model with annual recruitments as fixed effects, to state-space, multi-stock, multi-region, age-structured models.
 - [TagLab](https://github.com/cnr-isti-vclab/TagLab) - A CNN based image segmentation tool oriented to marine data analysis.
 - [DAS4Whales](https://github.com/DAS4Whales/DAS4Whales) - Python library to analyze Distributed Acoustic Sensing data for marine bioacoustics.
+- [Soundbay](https://github.com/deep-voice/soundbay) - An intuitive and comprehensive Python-based framework for training deep learning models and apply them in bioacoustic research.
 
 
 ### Plants and Vegetation
