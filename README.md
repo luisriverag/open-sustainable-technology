@@ -2070,6 +2070,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [Snowtools](https://github.com/UMR-CNRM/snowtools) - A Python package for pre- and post-processing of SURFEX-Crocus snow model simulations.
 - [SatRbedo](https://github.com/pabl1t0x/SatRbedo) - Tools for retrieving snow and ice albedo from optical satellite imagery.
 - [deep-snow](https://github.com/geo-smart/deep-snow) - An open-source package that provides models and workflows to estimate snow depth from Sentinel-1, Sentinel-2, SNODAS, terrain, and forest-cover inputs.
+- [Snow17](https://github.com/NOAA-OWP/snow17) - A snow accumulation and melt model that has been used by the National Weather Service since the late 1970s for operational streamflow forecasting.
 
 ## Hydrosphere
 
